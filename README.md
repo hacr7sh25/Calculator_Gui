@@ -1,4 +1,4 @@
-# Calculator GUI 🖩  
+# Calculator GUI 
 
 A simple GUI-based calculator built using **Java Swing**. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.  
 
@@ -36,9 +36,6 @@ javac CalculatorGUI.java
 ```sh
 java CalculatorGUI
 ```
-
-## 🖥️ Screenshots  
-(Add screenshots here if needed)
 
 ## 📜 License  
 This project is licensed under the **MIT License**.
